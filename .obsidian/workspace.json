@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity and Cryptography Paper.md",
+                "file": "Notes on wrting a paper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a48c9ae211173a5",
+  "active": "3e236205dea5bb17",
   "lastOpenFiles": [
-    "CISTI49556.2020.9140446.pdf",
-    "CyberSecurity and Cryptography Paper.md",
-    "Finding All Max-complexity Patterns in a 3x3 Grid.pdf",
     "Notes on wrting a paper.md",
+    "Notes on Hacker Curriculum.pdf",
+    "CyberSecurity and Cryptography Paper.md",
+    "CISTI49556.2020.9140446.pdf",
+    "Finding All Max-complexity Patterns in a 3x3 Grid.pdf",
     "Recent_Trends_in_User_Authentication_-_A_Survey.pdf"
   ]
 }

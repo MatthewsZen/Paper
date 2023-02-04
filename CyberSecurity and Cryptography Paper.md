@@ -9,5 +9,7 @@ https://ieeexplore.ieee.org/document/9660889
 <Authentication Hacking Methods> {Based on the methods provided in Recent trends in user authentication}
 <New Cryptographic Authentication Method>
 
+Final Topic:
+White hat hackers and Black hat hackers
 
-can you see the new changes?
+Final until furthur changes
